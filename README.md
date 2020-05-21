@@ -1,1 +1,1 @@
-# Trojan-Kit
+# Trojan
